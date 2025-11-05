@@ -1,0 +1,5 @@
+aiogram
+google-generativeai
+python-dotenv
+SQLAlchemy
+requests
